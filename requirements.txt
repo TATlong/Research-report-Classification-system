@@ -1,0 +1,11 @@
+beautifulsoup4==4.10.0
+chardet==4.0.0
+gensim==4.1.2
+jieba==0.42.1
+keras==2.7.0
+lxml==4.6.3
+numpy==1.20.3
+pandas
+PyYAML==6.0
+requests==2.26.0
+selenium==2.48.0
